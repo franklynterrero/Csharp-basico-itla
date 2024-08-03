@@ -1,0 +1,14 @@
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod1\MyFirstApp\CalcularSueldo\obj\Debug\net8.0\CalcularSueldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod1\MyFirstApp\CalcularSueldo\obj\Debug\net8.0\CalcularSueldo.AssemblyInfoInputs.cache
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod1\MyFirstApp\CalcularSueldo\obj\Debug\net8.0\CalcularSueldo.AssemblyInfo.cs
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod1\MyFirstApp\CalcularSueldo\obj\Debug\net8.0\CalcularSueldo.csproj.CoreCompileInputs.cache
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod1\MyFirstApp\CalcularSueldo\bin\Debug\net8.0\CalcularSueldo.exe
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod1\MyFirstApp\CalcularSueldo\bin\Debug\net8.0\CalcularSueldo.deps.json
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod1\MyFirstApp\CalcularSueldo\bin\Debug\net8.0\CalcularSueldo.runtimeconfig.json
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod1\MyFirstApp\CalcularSueldo\bin\Debug\net8.0\CalcularSueldo.dll
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod1\MyFirstApp\CalcularSueldo\bin\Debug\net8.0\CalcularSueldo.pdb
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod1\MyFirstApp\CalcularSueldo\obj\Debug\net8.0\CalcularSueldo.dll
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod1\MyFirstApp\CalcularSueldo\obj\Debug\net8.0\refint\CalcularSueldo.dll
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod1\MyFirstApp\CalcularSueldo\obj\Debug\net8.0\CalcularSueldo.pdb
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod1\MyFirstApp\CalcularSueldo\obj\Debug\net8.0\CalcularSueldo.genruntimeconfig.cache
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod1\MyFirstApp\CalcularSueldo\obj\Debug\net8.0\ref\CalcularSueldo.dll
