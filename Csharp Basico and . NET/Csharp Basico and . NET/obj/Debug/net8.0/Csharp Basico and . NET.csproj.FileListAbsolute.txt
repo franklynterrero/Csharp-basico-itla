@@ -1,0 +1,15 @@
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod1\Csharp-basico-itla\Csharp Basico and . NET\Csharp Basico and . NET\obj\Debug\net8.0\Csharp Basico and . NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod1\Csharp-basico-itla\Csharp Basico and . NET\Csharp Basico and . NET\obj\Debug\net8.0\Csharp Basico and . NET.AssemblyInfoInputs.cache
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod1\Csharp-basico-itla\Csharp Basico and . NET\Csharp Basico and . NET\obj\Debug\net8.0\Csharp Basico and . NET.AssemblyInfo.cs
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod1\Csharp-basico-itla\Csharp Basico and . NET\Csharp Basico and . NET\obj\Debug\net8.0\Csharp Basico and . NET.csproj.CoreCompileInputs.cache
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod1\Csharp-basico-itla\Csharp Basico and . NET\Csharp Basico and . NET\obj\Debug\net8.0\Csharp Basico and . NET.sourcelink.json
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod1\Csharp-basico-itla\Csharp Basico and . NET\Csharp Basico and . NET\bin\Debug\net8.0\Csharp Basico and . NET.exe
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod1\Csharp-basico-itla\Csharp Basico and . NET\Csharp Basico and . NET\bin\Debug\net8.0\Csharp Basico and . NET.deps.json
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod1\Csharp-basico-itla\Csharp Basico and . NET\Csharp Basico and . NET\bin\Debug\net8.0\Csharp Basico and . NET.runtimeconfig.json
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod1\Csharp-basico-itla\Csharp Basico and . NET\Csharp Basico and . NET\bin\Debug\net8.0\Csharp Basico and . NET.dll
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod1\Csharp-basico-itla\Csharp Basico and . NET\Csharp Basico and . NET\bin\Debug\net8.0\Csharp Basico and . NET.pdb
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod1\Csharp-basico-itla\Csharp Basico and . NET\Csharp Basico and . NET\obj\Debug\net8.0\Csharp Basico and . NET.dll
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod1\Csharp-basico-itla\Csharp Basico and . NET\Csharp Basico and . NET\obj\Debug\net8.0\refint\Csharp Basico and . NET.dll
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod1\Csharp-basico-itla\Csharp Basico and . NET\Csharp Basico and . NET\obj\Debug\net8.0\Csharp Basico and . NET.pdb
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod1\Csharp-basico-itla\Csharp Basico and . NET\Csharp Basico and . NET\obj\Debug\net8.0\Csharp Basico and . NET.genruntimeconfig.cache
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod1\Csharp-basico-itla\Csharp Basico and . NET\Csharp Basico and . NET\obj\Debug\net8.0\ref\Csharp Basico and . NET.dll
