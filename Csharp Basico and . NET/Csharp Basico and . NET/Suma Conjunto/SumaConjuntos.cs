@@ -14,12 +14,12 @@
             {
                 for (int i = 1; i <= 10; i++)
                 { 
-                    Console.WriteLine($"Introduzca sus numeros {i}");
+                    Console.WriteLine($"Introduzca su numero {i}: ");
                     conjuntos = Convert.ToInt32(Console.ReadLine()); 
                     if (i > 5)
                     {
                         suma = suma + conjuntos;
-                        Console.WriteLine($"Sumatoria: {suma}");
+                        Console.WriteLine($"Acumulado : {suma}");
       
                     }
                 }

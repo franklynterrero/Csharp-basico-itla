@@ -23,17 +23,17 @@ using Csharp_Basico_and_._NET.Triangulos;
 //triangulos.CalcularDimensiones();
 //Console.ReadLine();
 
-//conjuntos conjuntos =  new conjuntos();
-//conjuntos.CalcularConjuntos();
-//Console.ReadLine();
+conjuntos conjuntos = new conjuntos();
+conjuntos.CalcularConjuntos();
+Console.ReadLine();
 
 //SumaConjuntos sumaConjuntos = new SumaConjuntos();
 //sumaConjuntos.SumaFinalesConjuntos();
-//Console.ReadLine(); 
+//Console.ReadLine();
 
-Aritmetica aritmetica = new Aritmetica();
-aritmetica.CalcularAritmetica();
-Console.ReadLine();
+//Aritmetica aritmetica = new Aritmetica();
+//aritmetica.CalcularAritmetica();
+//Console.ReadLine();
 
 //piezas piezas = new piezas();
 //piezas.CalcularPiezas();

@@ -16,9 +16,10 @@
                     if (i % 3 == 0 || i % 5 == 0 )
                     {
                         conjuntos = conjuntos + 1;
+                        Console.WriteLine($"Este numero se puede dividr: {i}");
                     }  
                 }
-                Console.WriteLine(conjuntos);
+                Console.WriteLine($"Cantidad de numeros que se pueden dividir {conjuntos}");
             }
             catch (Exception ex)
             {
