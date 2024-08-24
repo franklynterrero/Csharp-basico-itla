@@ -1,8 +1,10 @@
 ﻿using Csharp_Basico_and_._NET.Aritmetica;
+using Csharp_Basico_and_._NET.Calcula_Area;
 using Csharp_Basico_and_._NET.Calcular_2_numeros;
 using Csharp_Basico_and_._NET.Calificaciones;
 using Csharp_Basico_and_._NET.Conjuntos;
 using Csharp_Basico_and_._NET.Piezas;
+using Csharp_Basico_and_._NET.Sueldos;
 using Csharp_Basico_and_._NET.Suma_Conjunto;
 using Csharp_Basico_and_._NET.Test;
 using Csharp_Basico_and_._NET.Triangulos;
@@ -23,9 +25,9 @@ using Csharp_Basico_and_._NET.Triangulos;
 //triangulos.CalcularDimensiones();
 //Console.ReadLine();
 
-conjuntos conjuntos = new conjuntos();
-conjuntos.CalcularConjuntos();
-Console.ReadLine();
+//conjuntos conjuntos = new conjuntos();
+//conjuntos.CalcularConjuntos();
+//Console.ReadLine();
 
 //SumaConjuntos sumaConjuntos = new SumaConjuntos();
 //sumaConjuntos.SumaFinalesConjuntos();
@@ -37,4 +39,13 @@ Console.ReadLine();
 
 //piezas piezas = new piezas();
 //piezas.CalcularPiezas();
+//Console.ReadLine();
+
+
+calcularArea calcularArea = new calcularArea();
+calcularArea.CalcularAreaTriangulos();
+Console.ReadLine();
+
+//SueldosEmpresa sueldosEmpresa = new SueldosEmpresa();
+//sueldosEmpresa.CalcularSueldoEmpres();
 //Console.ReadLine();

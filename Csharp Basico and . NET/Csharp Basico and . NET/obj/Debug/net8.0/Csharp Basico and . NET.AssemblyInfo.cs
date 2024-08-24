@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Csharp Basico and . NET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cb436210d7af6b1acaa401260f34e76a9e00a5e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+347a70e9c890290616deefd40a7c1017dd6439d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Csharp Basico and . NET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Csharp Basico and . NET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
