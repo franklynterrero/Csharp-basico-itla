@@ -1,0 +1,13 @@
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\mod2\Mod2 Itla\Mod2 Itla\obj\Debug\netcoreapp3.1\Mod2 Itla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\mod2\Mod2 Itla\Mod2 Itla\obj\Debug\netcoreapp3.1\Mod2 Itla.AssemblyInfoInputs.cache
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\mod2\Mod2 Itla\Mod2 Itla\obj\Debug\netcoreapp3.1\Mod2 Itla.AssemblyInfo.cs
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\mod2\Mod2 Itla\Mod2 Itla\obj\Debug\netcoreapp3.1\Mod2 Itla.csproj.CoreCompileInputs.cache
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\mod2\Mod2 Itla\Mod2 Itla\bin\Debug\netcoreapp3.1\Mod2 Itla.exe
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\mod2\Mod2 Itla\Mod2 Itla\bin\Debug\netcoreapp3.1\Mod2 Itla.deps.json
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\mod2\Mod2 Itla\Mod2 Itla\bin\Debug\netcoreapp3.1\Mod2 Itla.runtimeconfig.json
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\mod2\Mod2 Itla\Mod2 Itla\bin\Debug\netcoreapp3.1\Mod2 Itla.runtimeconfig.dev.json
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\mod2\Mod2 Itla\Mod2 Itla\bin\Debug\netcoreapp3.1\Mod2 Itla.dll
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\mod2\Mod2 Itla\Mod2 Itla\bin\Debug\netcoreapp3.1\Mod2 Itla.pdb
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\mod2\Mod2 Itla\Mod2 Itla\obj\Debug\netcoreapp3.1\Mod2 Itla.dll
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\mod2\Mod2 Itla\Mod2 Itla\obj\Debug\netcoreapp3.1\Mod2 Itla.pdb
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\mod2\Mod2 Itla\Mod2 Itla\obj\Debug\netcoreapp3.1\Mod2 Itla.genruntimeconfig.cache
