@@ -1,0 +1,14 @@
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod 4\Sistema de Nomina\bin\Debug\net8.0\Sistema de Nomina.exe
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod 4\Sistema de Nomina\bin\Debug\net8.0\Sistema de Nomina.deps.json
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod 4\Sistema de Nomina\bin\Debug\net8.0\Sistema de Nomina.runtimeconfig.json
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod 4\Sistema de Nomina\bin\Debug\net8.0\Sistema de Nomina.dll
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod 4\Sistema de Nomina\bin\Debug\net8.0\Sistema de Nomina.pdb
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod 4\Sistema de Nomina\obj\Debug\net8.0\Sistema de Nomina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod 4\Sistema de Nomina\obj\Debug\net8.0\Sistema de Nomina.AssemblyInfoInputs.cache
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod 4\Sistema de Nomina\obj\Debug\net8.0\Sistema de Nomina.AssemblyInfo.cs
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod 4\Sistema de Nomina\obj\Debug\net8.0\Sistema de Nomina.csproj.CoreCompileInputs.cache
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod 4\Sistema de Nomina\obj\Debug\net8.0\Sistema de Nomina.dll
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod 4\Sistema de Nomina\obj\Debug\net8.0\refint\Sistema de Nomina.dll
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod 4\Sistema de Nomina\obj\Debug\net8.0\Sistema de Nomina.pdb
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod 4\Sistema de Nomina\obj\Debug\net8.0\Sistema de Nomina.genruntimeconfig.cache
+C:\Users\Franklyn\Desktop\C# . net Basico ITLA\Mod 4\Sistema de Nomina\obj\Debug\net8.0\ref\Sistema de Nomina.dll

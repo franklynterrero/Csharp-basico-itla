@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Sistema_de_Nomina.Class.Empleado">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAgAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Empleado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_Nomina.Class.EmpleadoAsalariado">
+    <Position X="1.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Class\EmpleadoAsalariado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_Nomina.Class.EmpleadoBaseMasComision">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\EmpleadoBaseMasComision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_Nomina.Class.EmpleadoPorComision">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Class\EmpleadoPorComision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sistema_de_Nomina.Class.EmpleadoPorHoras">
+    <Position X="6.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Class\EmpleadoPorHoras.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
